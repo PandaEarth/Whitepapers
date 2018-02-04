@@ -72,11 +72,11 @@ Panda. Earth未來還會以現有平台為基礎，整合更多功能，並進�
 
 ### 投資
 
-![IDG](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/idg_logo.png)
+![IDG](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/idg.png)
 
 ### 戰略合作
 
-![IDG](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/forestry_logo.png)
+![IDG](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/forestry.png)
 
 ### 鏈接
 
@@ -84,5 +84,5 @@ Panda. Earth未來還會以現有平台為基礎，整合更多功能，並進�
 * [Github](https://github.com/pandaearth)
 * [Dribbble](https://dribbble.com/pandaearth)
 * [Twitter](https://twitter.com/panda__earth)
-* [聯繫我們](hello@panda.earth)
+* <hello@panda.earth>
 
