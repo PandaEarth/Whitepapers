@@ -1,10 +1,16 @@
 # Panda Earth 白皮書
 
+[English WhitePapers](README.md)
+
+
+
 ## 簡介
 
 區塊鏈技術伴隨著以比特幣為首的數字貨幣走紅而逐漸走進大眾視野。去中心化、高效傳輸、隱私保護，在諸多區塊鏈技術所獨有的優點的影響下，金融、保險、醫療等諸多行業均積極探索和研究區塊鏈技術的應用價值。
 
 在各方探索中，不乏成功的嘗試，如 2017 年的 Cryptokitties 項目便是將區塊鏈與遊戲相結合的一個成功案例。我們參考了 Cryptokitties 等諸多項目的成功經驗，用遊戲、社交、區塊鏈三者相結合的方式設計了 Panda. Earth。借助熊貓憨態可掬的形象，希望 Panda. Earth 應用走向大眾，讓更多的人切身體驗到區塊鏈技術的魅力。
+
+
 
 ## 特點
 
@@ -17,6 +23,8 @@
 社交化：通過將社交體系引入去中心化平台，社區用戶間的聯繫將更加緊密。
 
 平台化：在熊貓社交養成遊戲的基礎上，逐步搭建起一個集遊戲、應用、社交，支付，一身的平台，並逐步豐富應用場景。
+
+
 
 ## 公益
 
@@ -59,3 +67,22 @@ Panda. Earth 基於區塊鏈技術、由DAPP 承載，首先通過遊戲的形�
 Panda. Earth的DAPP 中內置了社交系統，允許用戶添加好友並以私聊或群組聊天的形式進行交流。同時，通過將數字錢包整合入DAPP,一方面，用戶對隱私數據、數字資產、社交關係的管理將更加便捷，另一方面，用戶間數字資產的轉移也將更加高效和安全。
 
 Panda. Earth未來還會以現有平台為基礎，整合更多功能，並進一步拓展應用場景。
+
+
+
+### 投資
+
+![IDG](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/idg_logo.png)
+
+### 戰略合作
+
+![IDG](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/forestry_logo.png)
+
+### 鏈接
+
+* [官方網站](https://panda.earth)
+* [Github](https://github.com/pandaearth)
+* [Dribbble](https://dribbble.com/pandaearth)
+* [Twitter](https://twitter.com/panda__earth)
+* [聯繫我們](hello@panda.earth)
+
