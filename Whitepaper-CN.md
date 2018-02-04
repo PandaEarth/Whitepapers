@@ -76,7 +76,7 @@ Panda. Earth未來還會以現有平台為基礎，整合更多功能，並進�
 
 ### 戰略合作
 
-![IDG](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/forestry.png)
+![中國大熊貓保護研究中心](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/forestry.png)
 
 ### 鏈接
 
