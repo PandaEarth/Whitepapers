@@ -33,7 +33,7 @@ Panda. Earth is cooperating with China Conservation and Research Center for Gian
 
 
 
-#### 1. The Penetration and the Implementation of Blockchain Technology
+## 1. The Penetration and the Implementation of Blockchain Technology
 
 The penetration of emerging technology is normally a process from “developed by professional institutions” to “accepted by the public”. As one the most popular technologies, Artificial Intelligent is highly admired by the public. The concept of AI is widely used in movies, novels, games, etc. While the practical application of AI, like Siri the intelligent personal assistant and iRobot the autonomous devices, could be frequently seen in our daily life.
 
@@ -43,7 +43,7 @@ Using blockchain technology, Panda. Earth will launch its own DAPP and deliver t
 
 
 
-#### 2. A Better Understanding to Cryptocurrency
+## 2. A Better Understanding to Cryptocurrency
 
 Influenced by speculation and other unhealthy actions of market participants, the public may hold a significant bias over the implementation of cryptocurrency. Someone even considers digital token as a tradable security. Meanwhile those false or misleading blockchain projects who do not focus on the development of technology and simply use ICO as a low-cost method to raise money also bring risk to the market. Panda. Earth will not raise fund in form of ICO or any other alternative ways. Instead, Panda. Earth will launch the platform and open it to the public. Anyone who wants to participate will be able to enjoy the game and all the future features.
 
@@ -55,27 +55,27 @@ Each [Guardian Panda] will be a digital copy of a real panda which means they ar
 
 
 
-#### 3. Plenty of New Features
+## 3. Plenty of New Features
 
-**[1] Simulation**
+#### [1] Simulation
 
 Despite of trading and breeding, Panda. Earth also introduces the concept of “territory” to the game. Players can harvest the “bamboo” by managing their territories and the bamboo could be converted into further revenue. Guaranteed by the input-output system, a mature economic cycles is expected to be built up which will ensure the users’ activity and the healthy operation of the platform.
 
 
 
-**[2] Social Networking**
+#### [2] Social Networking
 
 In addition to the instance message, Panda. Earth also adds more relative features to the game. For instance, Panda. Earth allows its players to team up as tribe. Different tribes will be able to fight against each other and the result will determine the distribution of the resource in Panda. Earth. 
 
 
 
-**[3] A Real Decentralized World**
+#### [3] A Real Decentralized World
 
 By implementing blockchain technology and smart contract, the operation of Panda. Earth will be fully decentralized and do not rely on development team. The community members will be able to determine the future development of the platform. Benefited from the smart contracts, variables from the real world , like the price of Bitcoin, will be reflected in the game.
 
 
 
-#### 4. Let the Social Networking Drives the Platform
+## 4. Let the Social Networking Drives the Platform
 
 The DAPP of Panda. Earth has social networking feature in it. It allows its users to add friends and chat with them in either private or a group. In addition, the DAPP integrate premium functions such as digital wallet and transaction. By combining blockchain technology and all those advanced features, users will be able to store and manage their privacy, digital asset, social network in a safer and more efficient way. The transaction between users is transparent and will be secured by the blockchain.
 
@@ -92,6 +92,8 @@ On the basis of existing platform, Panda. Earth will keep adding new features to
 ### Cooperation
 
 ![中國大熊貓保護研究中心](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/resources/cooperation.png)
+
+
 
 ### links
 
