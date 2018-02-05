@@ -1,7 +1,7 @@
 # Panda.Earth WhitePapers
 [中文白皮書](Whitepaper-CN.md)
 
-[PDF Download](https://raw.githubusercontent.com/PandaEarth/Whitepapers/blob/master/PandaEarth_Whitepaper.pdf)
+[PDF Download](https://raw.githubusercontent.com/PandaEarth/Whitepapers/master/PandaEarth_Whitepaper.pdf)
 
 
 
@@ -15,15 +15,15 @@ Among all the experiments, there were some successful projects. For instance, Cr
 
 ## Main Features
 
-**Uniqueness: ** Panda. Earth is the exclusive partner with China Conservation and Research Center for Giant Panda for the development and the operation of Panda theme simulation game built on blockchain. With the help of the center, Panda. Earth will be able to collect the data of hundreds of real Pandas and map them to the blockchain network as virtual pets. The breeding process of digital pandas is managed by Hash algorithm. Determined by the genetic algorithm, the appearance and the status of each off-spring would be random and unique.
+**Uniqueness:** Panda. Earth is the exclusive partner with China Conservation and Research Center for Giant Panda for the development and the operation of Panda theme simulation game built on blockchain. With the help of the center, Panda. Earth will be able to collect the data of hundreds of real Pandas and map them to the blockchain network as virtual pets. The breeding process of digital pandas is managed by Hash algorithm. Determined by the genetic algorithm, the appearance and the status of each off-spring would be random and unique.
 
-**Decentralization: ** The research team will set up the basic rule and the initial logic for the platform, while the system will be gradually improved by the community members. Panda. Earth will enrich the game play by adding variables coming from real world into the game. For instance, the fluctuation of Bitcoin price will determine the ecological balance of the Panda. Earth world.
+**Decentralization:** The research team will set up the basic rule and the initial logic for the platform, while the system will be gradually improved by the community members. Panda. Earth will enrich the game play by adding variables coming from real world into the game. For instance, the fluctuation of Bitcoin price will determine the ecological balance of the Panda. Earth world.
 
-**Mobile Adaption: ** Panda. Earth will extending its coverage of services by offering a mobile-friendly DAPP as the main client of the platform. 
+**Mobile Adaption:** Panda. Earth will extending its coverage of services by offering a mobile-friendly DAPP as the main client of the platform. 
 
-**Social Networking: ** By adding social networking features to the decentralized system, Panda. Earth manages to increase the possibility for connection among community members.
+**Social Networking:** By adding social networking features to the decentralized system, Panda. Earth manages to increase the possibility for connection among community members.
 
-**Platformization: ** On the basis of blockchain simulation game, Panda. Earth will add more features (including, but not limited to new games, instance message, mobile payment, etc.) to the platform and actively enrich the usage scenarios. 
+**Platformization:** On the basis of blockchain simulation game, Panda. Earth will add more features (including, but not limited to new games, instance message, mobile payment, etc.) to the platform and actively enrich the usage scenarios. 
 
 
 
